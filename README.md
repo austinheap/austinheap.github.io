@@ -23,3 +23,8 @@
 - [@austinheap](https://reddit.com/user/austinheap) on Reddit
 - [@austinheap](https://news.ycombinator.com/user?id=austinheap) on HackerNews
 - [austinheap.com](https://austinheap.com/) on Internets
+
+## Well Knowns
+
+- [security.txt](/.well-known/security.txt) for [draft-foudil-securitytxt-00](https://tools.ietf.org/html/draft-foudil-securitytxt-00)
+- [keybase.txt](/.well-known/keybase.txt) for [Keybase](https://keybase.io/austinheap)

@@ -3,3 +3,4 @@ title: Austin's Git Heap
 description: Someone described my demeanor as "an anxiety bordering on panic," so I'm feeling very seen today.
 show_downloads: false
 google_analytics: UA-108845340-1
+include: [".well-known"]

@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/austinheap
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://austinheap.github.io
+  * I am austinheap (https://keybase.io/austinheap) on keybase.
+  * I have a public key ASCt81s-0UNfPy0WbR9dg40W_YQF_otGAhnOphC_IWuX1Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120adf35b3ed1435f3f2d166d1f5d838d16fd8405fe8b460219cea610bf216b97d50a",
+      "host": "keybase.io",
+      "kid": "0120adf35b3ed1435f3f2d166d1f5d838d16fd8405fe8b460219cea610bf216b97d50a",
+      "uid": "921c00c5ecfeec4d4bbe11ac14d8ae00",
+      "username": "austinheap"
+    },
+    "merkle_root": {
+      "ctime": 1509154203,
+      "hash": "9f80382dd20a2e28db10306b8442c2085a19e9c33510f3a17875a81dd95242115f0e53658dafed82313255620a60cc89e3bce9f668c22ca43180809705ae7f36",
+      "hash_meta": "c16d10cd70c0c96ee101d2720011aad3a451c2268a897780c16be2316f1f556a",
+      "seqno": 1639559
+    },
+    "service": {
+      "hostname": "austinheap.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1509154295,
+  "expire_in": 504576000,
+  "prev": "de99c31331a8a1f1e21410da931f58c8f16a5b023a053a2ae3b1db78755b1cd8",
+  "seqno": 52,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgrfNbPtFDXz8tFm0fXYONFv2EBf6LRgIZzqYQvyFrl9UKp3BheWxvYWTFA097ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYWRmMzViM2VkMTQzNWYzZjJkMTY2ZDFmNWQ4MzhkMTZmZDg0MDVmZThiNDYwMjE5Y2VhNjEwYmYyMTZiOTdkNTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYWRmMzViM2VkMTQzNWYzZjJkMTY2ZDFmNWQ4MzhkMTZmZDg0MDVmZThiNDYwMjE5Y2VhNjEwYmYyMTZiOTdkNTBhIiwidWlkIjoiOTIxYzAwYzVlY2ZlZWM0ZDRiYmUxMWFjMTRkOGFlMDAiLCJ1c2VybmFtZSI6ImF1c3RpbmhlYXAifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDkxNTQyMDMsImhhc2giOiI5ZjgwMzgyZGQyMGEyZTI4ZGIxMDMwNmI4NDQyYzIwODVhMTllOWMzMzUxMGYzYTE3ODc1YTgxZGQ5NTI0MjExNWYwZTUzNjU4ZGFmZWQ4MjMxMzI1NTYyMGE2MGNjODllM2JjZTlmNjY4YzIyY2E0MzE4MDgwOTcwNWFlN2YzNiIsImhhc2hfbWV0YSI6ImMxNmQxMGNkNzBjMGM5NmVlMTAxZDI3MjAwMTFhYWQzYTQ1MWMyMjY4YTg5Nzc4MGMxNmJlMjMxNmYxZjU1NmEiLCJzZXFubyI6MTYzOTU1OX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJhdXN0aW5oZWFwLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM0In0sImN0aW1lIjoxNTA5MTU0Mjk1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImRlOTljMzEzMzFhOGExZjFlMjE0MTBkYTkzMWY1OGM4ZjE2YTViMDIzYTA1M2EyYWUzYjFkYjc4NzU1YjFjZDgiLCJzZXFubyI6NTIsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA3/KmufxfrhUggHzg57wTezTnkaeBGKcAdSEQqaztSNq50JC9BsQuqvvon0XdOHtwZ7SQXyqg+dDNvhNiX3yZBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFo4tZFwYshGFEKKGMicylJqykI3c/IpXCYCZtQdFNYho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/austinheap
+
+==================================================================
