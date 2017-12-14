@@ -5,7 +5,7 @@
 - [**laravel-database-influxdb**](https://github.com/austinheap/laravel-database-influxdb) (★3 on [Packagist](https://packagist.org/packages/austinheap/laravel-database-influxdb))
 - [**php-security-txt**](https://github.com/austinheap/php-security-txt) (★7 on [Packagist](https://packagist.org/packages/austinheap/php-security-txt))
 - [**laravel-security-txt**](https://github.com/austinheap/laravel-security-txt) (★5 on [Packagist](https://packagist.org/packages/austinheap/laravel-security-txt))
-- [**wordpress-security-txt**](https://github.com/austinheap/wordpress-security-txt) (_Available on the WordPress Plugin Directory soon!_)
+- [**wordpress-security-txt**](https://github.com/austinheap/wordpress-security-txt) (★26 on [WordPress](https://wordpress.org/plugins/wp-security-txt/))
 - [sophos-xg-block-lists](https://github.com/austinheap/sophos-xg-block-lists) (★3 on [GitHub](https://github.com/austinheap/sophos-xg-block-lists/stargazers))
 - [sophos-xg-ip-lists](https://github.com/austinheap/sophos-xg-ip-lists) (★1 on [GitHub](https://github.com/austinheap/sophos-xg-ip-lists/stargazers))
 
