@@ -8,6 +8,7 @@
 - [**wordpress-security-txt**](https://github.com/austinheap/wordpress-security-txt) (★26 on [WordPress](https://wordpress.org/plugins/wp-security-txt/))
 - [sophos-xg-block-lists](https://github.com/austinheap/sophos-xg-block-lists) (★3 on [GitHub](https://github.com/austinheap/sophos-xg-block-lists/stargazers))
 - [sophos-xg-ip-lists](https://github.com/austinheap/sophos-xg-ip-lists) (★1 on [GitHub](https://github.com/austinheap/sophos-xg-ip-lists/stargazers))
+- [**securitytext.org**](https://securitytext.org/)
 
 ## Documentation
 
